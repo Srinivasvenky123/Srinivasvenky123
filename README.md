@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Srinivasvenky123
+- 👀 I’m want to become a full stack developer...
+- 🌱 I’m currently learning C programming...
+- 📫 How to reach me jsreddy626@gmail.com is my email...
+
+<!---
+Srinivasvenky123/Srinivasvenky123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
